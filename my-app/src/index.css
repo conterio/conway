@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  margin:auto;
+  width: 900px;
+
+}
+
+.btn{
+  height:20px;
+  width:20px;
+  padding:5px;
+  margin:5px;
+  vertical-align: top;
+}
+
